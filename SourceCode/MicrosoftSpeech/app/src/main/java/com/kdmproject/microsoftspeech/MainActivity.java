@@ -29,7 +29,7 @@ public class MainActivity extends Activity implements ISpeechRecognitionServerEv
     DataRecognitionClient dataClient = null;
     MicrophoneRecognitionClient micClient = null;
     FinalResponseStatus isReceivedResponse = FinalResponseStatus.NotReceived;
-    TextView _logText;
+    EditText _logText;
     Button _startButton;
 
     public enum FinalResponseStatus { NotReceived, OK, Timeout }
@@ -70,7 +70,7 @@ public class MainActivity extends Activity implements ISpeechRecognitionServerEv
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        this._logText = (TextView) findViewById(R.id.editText1);
+        this._logText = (EditText) findViewById(R.id.editText1);
         this._startButton = (Button) findViewById(R.id.button1);
 
         // setup the buttons
