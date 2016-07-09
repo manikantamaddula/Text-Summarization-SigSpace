@@ -1,0 +1,3456 @@
+Hayden	PERSON
+set	O
+Australia	LOCATION
+win	O
+second	ORDINAL
+one	NUMBER
+day	DURATION
+international	O
+Christchurch	PERSON
+Australia	LOCATION
+	
+	
+	
+	
+over	O
+beat	O
+New	O
+Zealand	O
+	
+	
+	
+	
+over	O
+	
+	
+run	O
+Ricky	PERSON
+pont	O
+	
+	
+and	O
+Damien	PERSON
+Martyn	PERSON
+	
+	
+provide	O
+the	O
+main	O
+support	O
+for	O
+Hayden	PERSON
+who	O
+hit	O
+two	NUMBER
+six	NUMBER
+and	O
+	
+fours	O
+they	O
+eventually	O
+total	O
+	
+	
+and	O
+the	O
+game	O
+be	O
+good	O
+over	O
+when	O
+New	O
+Zealand	O
+slump	O
+	
+	
+	
+reply	O
+with	O
+Adam	PERSON
+Gilchrist	PERSON
+take	O
+five	NUMBER
+catch	Sports
+Daniel	PERSON
+Vettori	PERSON
+make	O
+rapid	O
+	
+but	O
+they	O
+be	O
+all	O
+out	Sports
+for	O
+	
+	
+the	O
+	
+st	O
+over	O
+New	O
+Zealand	O
+must	O
+now	DATE
+win	O
+all	O
+three	NUMBER
+remain	O
+match	O
+take	O
+the	O
+series	O
+but	O
+such	O
+turn	O
+round	O
+look	O
+remote	O
+possibility	O
+Jade	PERSON
+stadium	O
+Skipepr	PERSON
+Stephen	PERSON
+Fleming	PERSON
+choose	O
+put	O
+Australia	LOCATION
+after	O
+win	O
+the	O
+toss	O
+with	O
+former	O
+rugby	O
+star	O
+Jeff	PERSON
+Wilson	PERSON
+include	O
+the	O
+New	O
+Zealand	O
+team	O
+for	O
+he	O
+first	ORDINAL
+one	NUMBER
+day	DURATION
+international	O
+since	O
+March	DATE
+	
+	
+	
+be	O
+teach	O
+harsh	O
+lesson	O
+he	O
+six	NUMBER
+over	O
+cost	O
+	
+run	O
+with	O
+only	O
+left	O
+arm	O
+spinner	O
+Vettori	PERSON
+	
+	
+from	O
+	
+able	O
+exercise	O
+any	O
+measure	O
+control	O
+over	O
+the	O
+australian	O
+batsman	O
+Gilchrist	PERSON
+be	O
+catch	Sports
+behind	O
+off	O
+Daryl	PERSON
+Tuffey	PERSON
+from	O
+the	O
+second	ORDINAL
+ball	O
+the	O
+match	O
+but	O
+Hayden	PERSON
+and	O
+pont	O
+set	O
+about	O
+put	O
+thing	O
+right	O
+with	O
+stand	O
+	
+for	O
+the	O
+second	ORDINAL
+wicket	O
+pont	O
+clear	O
+the	O
+rope	O
+twice	O
+	
+race	O
+	
+off	O
+	
+ball	O
+but	O
+only	O
+add	O
+three	NUMBER
+more	O
+before	O
+be	O
+run	O
+out	Sports
+Hamish	PERSON
+Marshall	PERSON
+	
+then	O
+Hayden	PERSON
+be	O
+into	O
+he	O
+stride	O
+and	O
+and	O
+Martyn	PERSON
+add	O
+	
+	
+although	O
+take	O
+they	O
+	
+over	O
+Martyn	PERSON
+be	O
+run	O
+out	Sports
+off	O
+the	O
+final	O
+ball	O
+the	O
+	
+st	O
+over	O
+but	O
+the	O
+final	O
+nine	NUMBER
+cost	O
+the	O
+Kiwis	O
+	
+run	O
+Australia	LOCATION
+raise	O
+the	O
+tempo	O
+Hayden	PERSON
+century	DURATION
+come	O
+off	O
+	
+ball	O
+but	O
+eventually	O
+fall	DATE
+	
+catch	Sports
+Wilson	PERSON
+off	O
+Kyle	PERSON
+Mills	PERSON
+leave	O
+Michael	PERSON
+Clarke	PERSON
+add	O
+	
+off	O
+	
+ball	O
+and	O
+Mike	PERSON
+Hussey	PERSON
+	
+not	O
+out	Sports
+off	O
+	
+the	O
+total	O
+mount	O
+past	DATE
+	
+	
+the	O
+new	O
+ball	O
+pairing	O
+Brett	PERSON
+Lee	PERSON
+and	O
+Glenn	PERSON
+McGrath	PERSON
+make	O
+short	O
+work	O
+New	O
+Zealand	O
+top	O
+order	O
+claim	O
+two	NUMBER
+wicket	O
+each	O
+all	O
+they	O
+catch	Sports
+behind	O
+the	O
+wicket	O
+Gilchrist	PERSON
+	
+claim	O
+another	O
+when	O
+Andrew	PERSON
+symond	O
+find	O
+the	O
+edge	O
+Craig	PERSON
+McMillan	PERSON
+bat	O
+and	O
+when	O
+Chris	PERSON
+Cairns	PERSON
+follow	O
+for	O
+	
+catch	Sports
+Hayden	PERSON
+the	O
+home	O
+side	O
+be	O
+danger	O
+be	O
+embarrassed	O
+Vettori	PERSON
+and	O
+Brendon	PERSON
+McCullum	PERSON
+	
+	
+halted	O
+they	O
+decline	O
+share	O
+stand	O
+	
+before	O
+McCullum	PERSON
+give	O
+return	O
+catch	Sports
+symond	O
+who	O
+finish	O
+with	O
+	
+	
+	
+Wilson	PERSON
+make	O
+	
+	
+eighth	ORDINAL
+wicket	O
+stand	O
+	
+but	O
+the	O
+end	O
+come	O
+quickly	O
+once	DATE
+be	O
+catch	Sports
+pont	O
+off	O
+Jason	PERSON
+Gillespie	PERSON
+have	O
+pass	O
+fifty	NUMBER
+for	O
+the	O
+first	ORDINAL
+time	O
+	
+limited	O
+over	O
+international	O
+Vettori	PERSON
+be	O
+deny	O
+century	DURATION
+when	O
+be	O
+catch	Sports
+deep	O
+square	O
+leg	O
+off	O
+Gillespie	PERSON
+after	O
+hit	O
+	
+fours	O
+he	O
+	
+ball	O
+knock	O
+Mills	PERSON
+be	O
+last	O
+	
+run	O
+out	Sports
+Clarke	PERSON
+after	O
+set	O
+off	O
+for	O
+quick	O
+single	O
+and	O
+be	O
+send	O
+back	O
+Tuffey	PERSON
+	
+	
+Fleming	PERSON
+	
+Astle	PERSON
+	
+Sinclair	PERSON
+Wilson	PERSON
+	
+McMillan	PERSON
+	
+Marshall	PERSON
+	
+Cairns	PERSON
+	
+McCullum	PERSON
+	
+Mills	PERSON
+	
+Vettori	PERSON
+	
+Tuffey	PERSON
+	
+Hayden	PERSON
+	
+Gilchrist	PERSON
+	
+pont	O
+	
+Martyn	PERSON
+symond	O
+	
+Clarke	PERSON
+	
+Hussey	PERSON
+	
+Hogg	PERSON
+Lee	PERSON
+Gillespie	PERSON
+	
+McGrath	PERSON
+Pietersen	PERSON
+give	O
+England	LOCATION
+chance	O
+lunch	O
+England	LOCATION
+	
+all	O
+out	Sports
+	
+	
+over	O
+he	O
+inning	O
+	
+	
+come	O
+after	O
+the	O
+rest	O
+the	O
+batsman	O
+have	O
+fail	O
+dismally	O
+	
+	
+	
+the	O
+mid	O
+inning	O
+point	O
+Pietersen	PERSON
+who	O
+blast	O
+	
+fours	O
+and	O
+six	NUMBER
+six	NUMBER
+off	O
+	
+delivery	O
+add	O
+	
+run	O
+for	O
+the	O
+seventh	ORDINAL
+wicket	O
+with	O
+Ashley	PERSON
+Giles	PERSON
+	
+	
+	
+Darren	PERSON
+Gough	PERSON
+be	O
+rule	O
+out	Sports
+with	O
+cold	O
+and	O
+be	O
+replace	O
+Steve	PERSON
+harmison	O
+hall	O
+bowl	O
+harmison	O
+for	O
+duck	O
+hall	O
+bowl	O
+Ali	PERSON
+off	O
+he	O
+pad	O
+Ali	PERSON
+hit	O
+boundary	O
+off	O
+Nel	PERSON
+fine	O
+leg	O
+misfield	O
+and	O
+middle	O
+another	O
+down	O
+long	Sports
+off	O
+hall	O
+finally	O
+have	O
+he	O
+revenge	O
+bowling	O
+Pietersen	PERSON
+hall	O
+return	O
+the	O
+fray	O
+and	O
+deposit	O
+for	O
+straight	O
+six	NUMBER
+Pietersen	PERSON
+the	O
+next	O
+ball	O
+steer	O
+down	O
+the	O
+vacant	O
+third	ORDINAL
+man	O
+area	O
+for	O
+four	NUMBER
+Pietersen	PERSON
+clobber	O
+Nel	PERSON
+between	O
+square	O
+leg	O
+and	O
+midwicket	O
+for	O
+four	NUMBER
+Ali	PERSON
+and	O
+Pietersen	PERSON
+each	O
+hit	O
+fours	O
+before	O
+Ntini	PERSON
+deposit	O
+high	O
+over	O
+long	Sports
+	
+the	O
+Hampshire	ORGANIZATION
+batsman	O
+reach	O
+	
+	
+scramble	O
+single	O
+give	O
+he	O
+he	O
+third	ORDINAL
+century	DURATION
+the	O
+series	O
+Pietersen	PERSON
+drive	Sports
+Kallis	PERSON
+full	O
+toss	O
+for	O
+four	NUMBER
+and	O
+nick	O
+another	O
+ball	O
+wide	O
+Boucher	PERSON
+for	O
+second	ORDINAL
+boundary	O
+Pietersen	PERSON
+drive	Sports
+Ntini	PERSON
+wide	O
+mid	O
+off	O
+for	O
+four	NUMBER
+Ntini	PERSON
+start	O
+he	O
+third	ORDINAL
+spell	O
+york	O
+Giles	PERSON
+	
+this	O
+over	O
+Giles	PERSON
+reach	O
+he	O
+best	O
+score	NUMBER
+and	O
+Pietersen	PERSON
+bring	O
+the	O
+	
+partnership	O
+with	O
+six	NUMBER
+off	O
+hall	O
+Pietersen	PERSON
+launch	O
+Nel	PERSON
+over	O
+long	Sports
+for	O
+another	O
+six	NUMBER
+Giles	PERSON
+then	O
+drive	Sports
+he	O
+through	O
+extra	O
+cover	O
+for	O
+four	NUMBER
+	
+boundary	O
+for	O
+each	O
+batsman	O
+off	O
+hall	O
+underline	O
+the	O
+quality	O
+this	O
+Centurion	PERSON
+pitch	O
+Pietersen	PERSON
+drive	Sports
+Nel	PERSON
+wide	O
+mid	O
+off	O
+for	O
+four	NUMBER
+and	O
+Giles	PERSON
+then	O
+play	O
+he	O
+behind	O
+square	O
+the	O
+leg	O
+side	O
+for	O
+another	O
+four	NUMBER
+Boje	PERSON
+finish	O
+off	O
+with	O
+	
+	
+	
+Pietersen	PERSON
+collecte	O
+he	O
+third	ORDINAL
+one	NUMBER
+day	DURATION
+fifty	NUMBER
+with	O
+single	O
+Pollock	PERSON
+finish	O
+off	O
+with	O
+	
+	
+	
+Pietersen	PERSON
+slog	O
+sweep	O
+Boje	PERSON
+for	O
+two	NUMBER
+massive	O
+six	NUMBER
+over	O
+cow	O
+corner	O
+Giles	PERSON
+thumps	O
+Pollock	PERSON
+over	O
+mid	O
+for	O
+four	NUMBER
+bring	O
+England	LOCATION
+	
+	
+and	O
+add	O
+another	O
+boundary	O
+slash	O
+over	O
+gully	O
+the	O
+batsman	O
+continue	O
+trade	O
+singles	O
+	
+few	O
+more	O
+singles	O
+come	O
+off	O
+Pollock	PERSON
+and	O
+respite	O
+from	O
+the	O
+tedium	O
+this	O
+partnership	O
+come	O
+drink	O
+be	O
+bring	O
+	
+just	O
+	
+over	O
+remain	O
+and	O
+	
+	
+	
+England	LOCATION
+be	O
+merely	O
+hope	O
+they	O
+can	O
+bat	O
+out	Sports
+the	O
+over	O
+Pollock	PERSON
+return	O
+the	O
+attack	O
+and	O
+again	O
+England	LOCATION
+can	O
+only	O
+trade	O
+singles	O
+five	NUMBER
+dot	O
+ball	O
+from	O
+Boje	PERSON
+then	O
+single	O
+for	O
+Giles	PERSON
+England	LOCATION
+can	O
+only	O
+take	O
+two	NUMBER
+singles	O
+off	O
+Ntini	PERSON
+Boje	PERSON
+concede	O
+two	NUMBER
+run	O
+off	O
+the	O
+bat	O
+and	O
+single	O
+wide	O
+Ntini	PERSON
+go	O
+for	O
+six	NUMBER
+run	O
+he	O
+first	ORDINAL
+over	O
+	
+new	O
+spell	O
+Pietersen	PERSON
+garner	O
+solitary	O
+single	O
+off	O
+Boje	PERSON
+fourth	ORDINAL
+over	O
+with	O
+Giles	PERSON
+and	O
+Pietersen	PERSON
+batting	O
+together	O
+England	LOCATION
+have	O
+mountain	O
+climb	O
+Collingwood	PERSON
+give	O
+run	O
+out	Sports
+the	O
+third	ORDINAL
+umpire	Sports
+after	O
+misunderstand	O
+with	O
+Pietersen	PERSON
+Collingwood	PERSON
+take	O
+three	NUMBER
+run	O
+off	O
+hall	O
+four	NUMBER
+singles	O
+come	O
+off	O
+Boje	PERSON
+second	ORDINAL
+over	O
+	
+cover	O
+drive	Sports
+from	O
+Collingwood	PERSON
+off	O
+Nel	PERSON
+bring	O
+the	O
+batsman	O
+four	NUMBER
+run	O
+	
+Boje	PERSON
+first	ORDINAL
+over	O
+Solanki	PERSON
+contrive	O
+top	O
+edge	O
+sweep	O
+short	O
+fine	O
+leg	O
+Nel	PERSON
+get	O
+through	O
+another	O
+good	O
+over	O
+	
+Pietersen	PERSON
+single	O
+bring	O
+the	O
+England	LOCATION
+team	O
+half	O
+century	DURATION
+but	O
+will	O
+have	O
+perform	O
+some	O
+more	O
+heroics	O
+set	O
+challenge	O
+total	O
+Pietersen	PERSON
+pull	O
+Nel	PERSON
+long	Sports
+hop	O
+for	O
+four	NUMBER
+Pietersen	PERSON
+whip	O
+straight	O
+ball	O
+from	O
+hall	O
+wide	O
+mid	O
+for	O
+four	NUMBER
+Jones	PERSON
+top	O
+edge	O
+pull	O
+shot	O
+off	O
+Nel	PERSON
+and	O
+give	O
+dolly	O
+catch	Sports
+Kemp	PERSON
+square	O
+leg	O
+hall	O
+bowl	O
+maiden	O
+Pietersen	PERSON
+Nel	PERSON
+allow	O
+just	O
+single	O
+from	O
+he	O
+second	ORDINAL
+over	O
+hall	O
+able	O
+get	O
+through	O
+economical	O
+first	ORDINAL
+over	O
+Nel	PERSON
+strike	O
+he	O
+first	ORDINAL
+over	O
+Strauss	PERSON
+get	O
+under	O
+edge	O
+try	O
+attack	O
+short	O
+ball	O
+with	O
+pull	O
+shot	O
+Strauss	PERSON
+play	O
+smart	O
+leg	O
+glance	O
+off	O
+Pollock	PERSON
+for	O
+four	NUMBER
+Strauss	PERSON
+have	O
+he	O
+first	ORDINAL
+boundary	O
+	
+pull	O
+Ntini	PERSON
+for	O
+four	NUMBER
+after	O
+	
+dot	O
+ball	O
+Jones	PERSON
+square	O
+cut	O
+Pollock	PERSON
+for	O
+four	NUMBER
+Ntini	PERSON
+get	O
+through	O
+he	O
+second	ORDINAL
+maiden	O
+England	LOCATION
+run	O
+rate	O
+decline	O
+desparate	O
+proportion	O
+Boje	PERSON
+miss	O
+golden	O
+opportunity	O
+run	O
+out	Sports
+Strauss	PERSON
+after	O
+the	O
+non	O
+striker	O
+sell	O
+dummy	O
+Jones	PERSON
+Strauss	PERSON
+drop	O
+Kemp	PERSON
+gully	O
+just	O
+two	NUMBER
+more	O
+singles	O
+come	O
+off	O
+Pollock	PERSON
+with	O
+Strauss	PERSON
+and	O
+Jones	PERSON
+play	O
+watchful	O
+cricket	O
+Ntini	PERSON
+bowl	O
+maiden	O
+Strauss	PERSON
+Pollock	PERSON
+second	ORDINAL
+over	O
+cost	O
+just	O
+two	NUMBER
+Jones	PERSON
+flick	O
+Ntini	PERSON
+high	O
+over	O
+square	O
+leg	O
+for	O
+four	NUMBER
+Vaughan	PERSON
+lose	O
+he	O
+middle	O
+and	O
+leg	O
+stump	O
+	
+beat	O
+for	O
+pace	O
+Ntini	PERSON
+Trescothick	PERSON
+play	O
+flat	O
+foot	O
+drive	Sports
+	
+Pollock	PERSON
+half	O
+volley	O
+which	O
+go	O
+strsight	O
+gully	O
+	
+Smith	PERSON
+capt	O
+	
+Boje	PERSON
+Kallis	PERSON
+Gibbs	PERSON
+Prince	PERSON
+Kemp	PERSON
+Boucher	PERSON
+wkt	O
+	
+Pollock	PERSON
+Ntini	PERSON
+Nel	PERSON
+hall	O
+	
+Vaughan	PERSON
+capt	O
+	
+Trescothick	PERSON
+Jones	PERSON
+wkt	O
+	
+Strauss	PERSON
+Pietersen	PERSON
+Bell	O
+Solanki	PERSON
+Collingwood	PERSON
+Giles	PERSON
+Kabir	PERSON
+Ali	PERSON
+harmison	O
+Wharf	O
+South	O
+Africa	LOCATION
+far	O
+too	O
+strong	O
+again	O
+second	ORDINAL
+one	NUMBER
+day	DURATION
+international	O
+Durban	LOCATION
+South	O
+Africa	LOCATION
+	
+	
+beat	O
+Zimbabwe	LOCATION
+	
+	
+	
+	
+run	O
+South	O
+Africa	LOCATION
+lead	O
+three	NUMBER
+match	O
+series	O
+	
+Smith	PERSON
+	
+	
+set	O
+the	O
+best	O
+total	O
+Durban	LOCATION
+	
+one	NUMBER
+day	DURATION
+international	O
+	
+be	O
+give	O
+fine	O
+support	O
+Herschelle	PERSON
+Gibbs	PERSON
+they	O
+add	O
+	
+before	O
+Justin	PERSON
+Kemp	PERSON
+hit	O
+	
+not	O
+out	Sports
+off	O
+just	O
+	
+ball	O
+Zimbabwe	LOCATION
+finish	O
+	
+	
+	
+lose	O
+	
+	
+run	O
+with	O
+Barney	PERSON
+Rogers	ORGANIZATION
+	
+	
+the	O
+top	O
+scorer	O
+South	O
+Africa	LOCATION
+lead	O
+the	O
+series	O
+	
+with	O
+just	O
+one	NUMBER
+play	O
+Rogers	ORGANIZATION
+put	O
+	
+for	O
+the	O
+first	ORDINAL
+wicket	O
+with	O
+Stuart	PERSON
+Matsikenyeri	PERSON
+but	O
+they	O
+partnership	O
+soak	O
+	
+	
+over	O
+Matsikenyeri	PERSON
+labour	O
+for	O
+	
+minute	DURATION
+over	O
+he	O
+inning	O
+	
+before	O
+offering	O
+catch	Sports
+off	O
+the	O
+bowling	O
+Albie	PERSON
+Morkel	PERSON
+the	O
+same	O
+bowler	O
+strike	O
+soon	O
+afterwards	O
+Rogers	ORGANIZATION
+clip	O
+fullish	O
+delivery	O
+wide	O
+mid	O
+	
+Nicky	PERSON
+Boje	PERSON
+and	O
+Adam	PERSON
+Bacher	PERSON
+each	O
+take	O
+brace	O
+wicket	O
+the	O
+middle	O
+order	O
+simply	O
+play	O
+for	O
+pride	O
+and	O
+be	O
+tell	O
+that	O
+Bacher	PERSON
+whose	O
+military	O
+medium	O
+pace	O
+be	O
+not	O
+even	O
+experiment	O
+with	O
+against	O
+England	LOCATION
+finish	O
+with	O
+	
+	
+off	O
+full	O
+allotment	O
+	
+over	O
+Zimbabwe	LOCATION
+have	O
+win	O
+the	O
+toss	O
+the	O
+start	O
+the	O
+day	DURATION
+and	O
+do	O
+well	O
+with	O
+the	O
+ball	O
+early	O
+	
+reduce	O
+the	O
+South	O
+african	O
+	
+	
+	
+the	O
+	
+th	O
+over	O
+but	O
+Smith	PERSON
+and	O
+Gibbs	PERSON
+who	O
+often	O
+form	O
+powerful	O
+partnership	O
+both	O
+test	O
+and	O
+one	NUMBER
+day	DURATION
+international	O
+be	O
+not	O
+backwards	O
+come	O
+forward	O
+launch	O
+barrage	O
+boundary	O
+off	O
+the	O
+spinner	O
+Zimbabwe	LOCATION
+be	O
+hamper	O
+when	O
+strike	O
+bowler	O
+Tinashe	PERSON
+panyangara	O
+left	O
+the	O
+field	O
+he	O
+fourth	ORDINAL
+over	O
+with	O
+back	O
+strain	O
+the	O
+spinner	O
+have	O
+	
+plenty	O
+work	O
+	
+result	O
+and	O
+one	NUMBER
+they	O
+prosper	O
+Utseya	PERSON
+go	O
+for	O
+	
+six	NUMBER
+over	O
+Gibbs	PERSON
+take	O
+particular	O
+liking	O
+he	O
+before	O
+eventually	O
+fall	DATE
+Rogers	ORGANIZATION
+for	O
+	
+off	O
+	
+ball	O
+Seam	O
+bowler	O
+Christopher	PERSON
+Mpofu	PERSON
+take	O
+	
+	
+he	O
+nine	NUMBER
+over	O
+	
+be	O
+impressive	O
+the	O
+main	O
+but	O
+have	O
+bowl	O
+the	O
+final	O
+over	O
+the	O
+inning	O
+which	O
+disappear	O
+for	O
+	
+Justin	PERSON
+Kemp	PERSON
+equal	O
+the	O
+fastest	O
+half	O
+century	DURATION
+	
+South	O
+African	MISC
+	
+hit	O
+two	NUMBER
+fours	O
+and	O
+five	NUMBER
+tower	O
+six	NUMBER
+	
+brutal	O
+display	O
+hit	O
+afterwards	O
+Kemp	PERSON
+say	O
+know	O
+nothing	O
+about	O
+the	O
+record	O
+	
+have	O
+idea	O
+	
+admit	O
+	
+be	O
+just	O
+think	O
+about	O
+smash	O
+every	O
+ball	O
+for	O
+six	NUMBER
+Graeme	PERSON
+Smith	PERSON
+captain	O
+Adam	PERSON
+Bacher	PERSON
+Jacques	PERSON
+Rudolph	PERSON
+Herschelle	PERSON
+Gibbs	PERSON
+Ashwell	PERSON
+Prince	PERSON
+Justin	PERSON
+Kemp	PERSON
+Mark	PERSON
+Boucher	PERSON
+Albie	PERSON
+Morkel	PERSON
+Nicky	PERSON
+Boje	PERSON
+Andrew	PERSON
+hall	O
+Charl	PERSON
+Langeveldt	PERSON
+Stuart	PERSON
+Matsikenyeri	PERSON
+Barney	PERSON
+Rogers	ORGANIZATION
+Hamilton	PERSON
+masakadza	O
+Alester	PERSON
+Maregwede	PERSON
+Brendan	PERSON
+Taylor	PERSON
+Tatenda	PERSON
+Taibu	PERSON
+captain	O
+Gavin	PERSON
+Ewing	PERSON
+Sean	PERSON
+Williams	PERSON
+Tinashe	PERSON
+panyangara	O
+prosper	O
+Utseya	PERSON
+Christopher	PERSON
+Mpofu	PERSON
+Pakistan	LOCATION
+revenge	O
+mission	O
+Pakistan	LOCATION
+cricketer	O
+depart	O
+for	O
+Delhi	LOCATION
+Monday	DATE
+with	O
+captain	O
+Inzamam	PERSON
+	
+Haq	PERSON
+beseech	O
+he	O
+side	O
+make	O
+for	O
+the	O
+	
+	
+defeat	O
+India	LOCATION
+home	O
+soil	O
+India	LOCATION
+outplay	O
+Pakistan	LOCATION
+	
+month	DURATION
+ago	O
+beat	O
+they	O
+	
+	
+the	O
+test	O
+and	O
+	
+	
+the	O
+one	NUMBER
+day	DURATION
+international	O
+Inzamam	PERSON
+say	O
+ahead	O
+Pakistan	LOCATION
+first	ORDINAL
+full	O
+tour	O
+India	LOCATION
+for	O
+six	NUMBER
+year	DURATION
+	
+want	O
+make	O
+amends	O
+for	O
+last	O
+year	DURATION
+	
+the	O
+australian	O
+tour	O
+be	O
+big	O
+learn	O
+experience	O
+and	O
+think	O
+be	O
+	
+position	O
+reap	O
+benefit	O
+India	LOCATION
+Series	O
+between	O
+India	LOCATION
+and	O
+Pakistan	LOCATION
+be	O
+always	O
+eagerly	O
+await	O
+largely	O
+because	O
+politics	O
+often	O
+restrict	O
+the	O
+amount	O
+cricket	O
+the	O
+two	NUMBER
+team	O
+can	O
+play	O
+against	O
+each	O
+other	O
+this	O
+particular	O
+engagement	O
+which	O
+will	O
+include	O
+three	NUMBER
+test	O
+and	O
+six	NUMBER
+one	NUMBER
+dayer	O
+be	O
+twice	O
+threaten	O
+the	O
+schedule	O
+have	O
+already	O
+be	O
+put	O
+back	O
+four	NUMBER
+day	DURATION
+over	O
+dispute	O
+which	O
+centre	O
+Pakistan	LOCATION
+refusal	O
+play	O
+the	O
+second	ORDINAL
+test	O
+Ahmedabad	LOCATION
+the	O
+first	ORDINAL
+test	O
+Mohali	LOCATION
+will	O
+now	DATE
+get	O
+under	O
+way	O
+	
+March	DATE
+then	O
+follow	O
+protracted	O
+row	O
+over	O
+television	O
+rights	O
+the	O
+Madras	LOCATION
+high	O
+Court	O
+issue	O
+interim	O
+order	O
+ensure	O
+the	O
+match	O
+would	O
+broadcast	O
+live	O
+state	O
+own	O
+channel	O
+Doordarshan	O
+after	O
+the	O
+	
+	
+series	O
+between	O
+the	O
+two	NUMBER
+side	O
+Pakistan	LOCATION
+sack	O
+they	O
+coach	O
+Javed	PERSON
+Miandad	PERSON
+Inzamam	PERSON
+believe	O
+he	O
+replacement	O
+Bob	PERSON
+Woolmer	PERSON
+have	O
+improve	O
+the	O
+side	O
+even	O
+	
+string	O
+positive	O
+result	O
+have	O
+not	O
+yet	O
+come	O
+	
+say	O
+	
+lot	O
+have	O
+change	O
+since	O
+that	O
+series	O
+Woolmer	PERSON
+have	O
+help	O
+change	O
+the	O
+attitude	O
+the	O
+boy	O
+which	O
+more	O
+positive	O
+and	O
+professional	O
+and	O
+think	O
+they	O
+can	O
+take	O
+the	O
+pressure	O
+play	O
+India	LOCATION
+Pakistan	LOCATION
+will	O
+without	O
+strike	O
+bowler	O
+Shoaib	PERSON
+Akhtar	PERSON
+hamstring	O
+leave	O
+recall	O
+off	O
+spinner	O
+Arshad	PERSON
+Khan	PERSON
+and	O
+leg	O
+spinner	O
+danish	O
+Kaneria	PERSON
+with	O
+much	O
+work	O
+	
+	
+Inzamam	PERSON
+say	O
+Shoaib	PERSON
+absence	O
+will	O
+feel	O
+but	O
+we	O
+strength	O
+play	O
+	
+unit	O
+	
+Khan	PERSON
+and	O
+Kaneria	PERSON
+have	O
+big	O
+role	O
+play	O
+India	LOCATION
+they	O
+be	O
+the	O
+one	NUMBER
+whom	O
+will	O
+depend	O
+lot	O
+the	O
+test	O
+match	O
+	
+be	O
+expect	O
+slow	O
+turn	O
+track	O
+and	O
+have	O
+be	O
+practice	O
+for	O
+such	O
+condition	O
+Pakistan	LOCATION
+first	ORDINAL
+match	O
+	
+three	NUMBER
+day	DURATION
+warm	O
+against	O
+the	O
+indian	O
+Board	O
+President	O
+	
+Dharamsala	LOCATION
+from	O
+March	DATE
+	
+Salman	PERSON
+butt	O
+Yasir	PERSON
+Hameed	PERSON
+Taufeeq	PERSON
+Umar	PERSON
+Younis	PERSON
+Khan	PERSON
+Inzamam	PERSON
+	
+Haq	PERSON
+captain	O
+Yousuf	PERSON
+Youhana	PERSON
+Asim	PERSON
+Kamal	PERSON
+Kamran	PERSON
+Akmal	PERSON
+wkt	O
+Abdul	PERSON
+Razzaq	PERSON
+Shoaib	PERSON
+Malik	PERSON
+Shahid	PERSON
+Afridi	PERSON
+Arshad	PERSON
+Khan	PERSON
+danish	O
+Kaneria	PERSON
+Muhammad	PERSON
+Sami	PERSON
+Rana	PERSON
+Naved	PERSON
+Muhammad	PERSON
+Khalil	PERSON
+Russell	PERSON
+instruct	O
+keeper	O
+Jones	PERSON
+Former	O
+England	LOCATION
+and	O
+Gloucestershire	ORGANIZATION
+wicket	O
+keeper	O
+Jack	PERSON
+Russell	PERSON
+have	O
+be	O
+call	O
+	
+give	O
+coaching	O
+current	DATE
+national	O
+team	O
+gloveman	O
+Geraint	PERSON
+Jones	PERSON
+Jones	PERSON
+do	O
+not	O
+have	O
+the	O
+best	O
+tour	O
+South	O
+Africa	LOCATION
+drop	O
+catch	Sports
+and	O
+concede	O
+too	O
+many	O
+bye	O
+now	DATE
+England	LOCATION
+coach	O
+Duncan	PERSON
+Fletcher	PERSON
+have	O
+seek	O
+out	Sports
+the	O
+	
+test	O
+veteran	O
+Russell	PERSON
+tell	O
+the	O
+Daily	SET
+Express	O
+Duncan	PERSON
+and	O
+captain	O
+Michael	PERSON
+Vaughan	PERSON
+have	O
+ask	O
+	
+build	O
+relationship	O
+with	O
+Geraint	PERSON
+and	O
+give	O
+he	O
+whatever	O
+help	O
+need	O
+the	O
+pair	O
+have	O
+already	O
+work	O
+closely	O
+but	O
+Russell	PERSON
+will	O
+heavily	O
+involve	O
+the	O
+countdown	O
+the	O
+ash	O
+begin	O
+	
+say	O
+Geraint	PERSON
+have	O
+get	O
+the	O
+ability	O
+play	O
+	
+test	O
+for	O
+England	LOCATION
+	
+have	O
+the	O
+right	O
+attitude	O
+	
+people	O
+have	O
+remember	O
+	
+still	O
+quite	O
+raw	O
+there	O
+be	O
+some	O
+thing	O
+need	O
+work	O
+out	Sports
+but	O
+	
+just	O
+case	O
+smooth	O
+out	Sports
+few	O
+rough	O
+edge	O
+	
+term	O
+win	O
+the	O
+ash	O
+have	O
+get	O
+important	O
+role	O
+play	O
+	
+can	O
+some	O
+real	O
+damage	O
+and	O
+	
+	
+doubt	O
+have	O
+the	O
+stomach	O
+for	O
+fight	O
+meanwhile	O
+Steve	PERSON
+harmison	O
+have	O
+reflect	O
+he	O
+even	O
+more	O
+disappointing	O
+tour	O
+South	O
+Africa	LOCATION
+harmison	O
+tell	O
+the	O
+News	O
+the	O
+World	O
+	
+be	O
+high	O
+intensity	O
+high	O
+pressure	O
+cricket	O
+for	O
+the	O
+whole	O
+tour	O
+and	O
+that	O
+mentally	O
+and	O
+physically	O
+drain	O
+	
+certainly	O
+wasn	O
+the	O
+best	O
+environment	O
+which	O
+hit	O
+bad	O
+patch	O
+England	LOCATION
+roll	O
+second	ORDINAL
+victory	O
+one	NUMBER
+day	DURATION
+tour	O
+match	O
+Sharjah	LOCATION
+England	LOCATION
+	
+UAE	O
+prior	O
+top	O
+score	NUMBER
+with	O
+	
+	
+stand	O
+	
+	
+help	O
+England	LOCATION
+	
+	
+for	O
+eight	NUMBER
+Sharjah	LOCATION
+with	O
+Solanki	PERSON
+make	O
+	
+and	O
+Michael	PERSON
+Powell	PERSON
+	
+	
+Glamorgan	PERSON
+David	PERSON
+Harrison	PERSON
+strike	O
+early	O
+leave	O
+UAE	O
+reel	O
+	
+for	O
+two	NUMBER
+Usman	PERSON
+Saleem	PERSON
+restore	O
+some	O
+respectability	O
+with	O
+	
+but	O
+UAE	O
+run	O
+out	Sports
+steam	O
+close	O
+	
+	
+for	O
+nine	NUMBER
+the	O
+tourist	O
+win	O
+Saturday	DATE
+first	ORDINAL
+game	O
+	
+run	O
+rashid	O
+Khan	PERSON
+Amjad	PERSON
+Javed	PERSON
+Usman	PERSON
+Saleem	PERSON
+naeemuddin	O
+Aslam	PERSON
+Khuram	PERSON
+Khan	PERSON
+Capt	O
+Ahmed	PERSON
+Nadeem	PERSON
+Fahad	PERSON
+Usman	PERSON
+Sameer	PERSON
+Zia	PERSON
+Mohammad	PERSON
+Taskeen	PERSON
+wkt	O
+Ali	PERSON
+Asad	PERSON
+Rizwan	PERSON
+Latif	PERSON
+	
+	
+Solanki	PERSON
+	
+prior	O
+wkt	O
+	
+Bell	O
+Capt	O
+	
+Shah	PERSON
+	
+Powell	PERSON
+	
+Gidman	PERSON
+	
+Swann	PERSON
+	
+Franks	PERSON
+	
+Dawson	PERSON
+	
+Harrison	PERSON
+Lewis	PERSON
+Iftikhar	PERSON
+Ali	PERSON
+and	O
+Tariq	PERSON
+butt	O
+kaif	O
+absence	O
+wrong	O
+Azharuddin	PERSON
+India	LOCATION
+be	O
+wrong	O
+leave	O
+Mohammad	PERSON
+kaif	O
+out	Sports
+they	O
+squad	O
+for	O
+the	O
+first	ORDINAL
+test	O
+against	O
+Pakistan	LOCATION
+accord	O
+former	O
+captain	O
+Mohammad	PERSON
+Azharuddin	PERSON
+Azharuddin	PERSON
+serve	O
+life	O
+ban	O
+for	O
+match	O
+fix	O
+feel	O
+the	O
+middle	O
+order	O
+batsman	O
+deserve	O
+another	O
+chance	O
+	
+kaif	O
+bat	O
+very	O
+well	O
+against	O
+Australia	LOCATION
+	
+tough	O
+wicket	O
+Azharuddin	PERSON
+tell	O
+BBC	ORGANIZATION
+Sport	O
+	
+	
+get	O
+lot	O
+talent	O
+and	O
+	
+sure	O
+cannot O
+hold	O
+back	O
+he	O
+omission	O
+not	O
+good	O
+for	O
+he	O
+confidence	O
+kaif	O
+score	NUMBER
+two	NUMBER
+fifty	NUMBER
+last	O
+year	DURATION
+home	O
+series	O
+loss	O
+the	O
+Aussies	MISC
+while	O
+Yuvraj	PERSON
+Singh	PERSON
+fail	O
+badly	O
+against	O
+the	O
+same	O
+opponent	O
+yet	O
+be	O
+give	O
+squad	O
+berth	O
+for	O
+the	O
+Mohali	LOCATION
+test	O
+start	O
+	
+March	DATE
+Azharuddin	PERSON
+reckon	O
+Vangipurappu	PERSON
+Laxman	PERSON
+should	O
+bat	O
+first	ORDINAL
+drop	O
+despite	O
+struggle	O
+for	O
+form	O
+	
+Laxman	PERSON
+have	O
+always	O
+play	O
+well	O
+when	O
+have	O
+go	O
+number	O
+three	NUMBER
+	
+say	O
+	
+lower	O
+down	O
+the	O
+order	O
+lot	O
+pressure	O
+	
+he	O
+and	O
+	
+be	O
+the	O
+captain	O
+would	O
+have	O
+play	O
+he	O
+number	O
+three	NUMBER
+	
+well	O
+spinner	O
+Harbhajan	PERSON
+Singh	PERSON
+and	O
+Anil	PERSON
+Kumble	PERSON
+India	LOCATION
+have	O
+four	NUMBER
+pacemen	O
+choose	O
+from	O
+after	O
+name	O
+Ashish	PERSON
+Nehra	PERSON
+Lakshmipathy	PERSON
+balajus	O
+Irfan	PERSON
+pathan	O
+and	O
+Zaheer	PERSON
+Khan	PERSON
+the	O
+	
+man	O
+squad	O
+	
+all	O
+the	O
+four	NUMBER
+pace	O
+bowler	O
+deserve	O
+get	O
+into	O
+the	O
+team	O
+Azharuddin	PERSON
+add	O
+Pakistan	LOCATION
+minus	O
+injure	O
+paceman	O
+Shoaib	PERSON
+Akhtar	PERSON
+be	O
+due	O
+arrive	O
+India	LOCATION
+Monday	DATE
+ahead	O
+they	O
+first	ORDINAL
+warm	O
+match	O
+against	O
+the	O
+indian	O
+Board	O
+President	O
+	
+start	O
+Thursday	DATE
+	
+Shoaib	PERSON
+Akhtar	PERSON
+absence	O
+the	O
+pakistani	O
+side	O
+not	O
+go	O
+make	O
+much	O
+	
+difference	O
+Azharuddin	PERSON
+opine	O
+	
+may	O
+get	O
+wicket	O
+two	NUMBER
+but	O
+have	O
+	
+more	O
+consistent	O
+also	O
+the	O
+indian	O
+batting	O
+very	O
+strong	O
+now	DATE
+Azharuddin	PERSON
+maintain	O
+he	O
+innocence	O
+despite	O
+he	O
+central	O
+involvement	O
+the	O
+match	O
+fix	O
+scandal	O
+	
+	
+which	O
+saw	O
+pakistani	O
+Salim	PERSON
+Malik	PERSON
+and	O
+the	O
+late	O
+Hansie	PERSON
+Cronje	PERSON
+South	O
+Africa	LOCATION
+also	O
+receive	O
+life	O
+ban	O
+	
+	
+test	O
+for	O
+India	LOCATION
+from	O
+	
+	
+	
+	
+	
+Azharuddin	PERSON
+score	NUMBER
+	
+	
+run	O
+	
+average	O
+	
+with	O
+	
+century	DURATION
+Bracewell	PERSON
+worried	O
+Lee	PERSON
+New	O
+Zealand	O
+coach	O
+John	PERSON
+Bracewell	PERSON
+furious	O
+that	O
+Australia	LOCATION
+paceman	O
+Brett	PERSON
+Lee	PERSON
+have	O
+bowl	O
+four	NUMBER
+beamer	O
+he	O
+batsman	O
+the	O
+current	DATE
+one	NUMBER
+day	DURATION
+series	O
+Brendon	PERSON
+McCullum	PERSON
+be	O
+strike	O
+the	O
+arm	O
+	
+waist	O
+high	O
+full	O
+toss	O
+Auckland	LOCATION
+Sunday	DATE
+match	O
+Australia	LOCATION
+win	O
+Bracewell	PERSON
+say	O
+	
+	
+be	O
+apologetic	O
+every	O
+time	O
+	
+do	O
+	
+	
+be	O
+apologetic	O
+when	O
+do	O
+	
+Chris	PERSON
+Harris	PERSON
+and	O
+Paul	PERSON
+Wiseman	PERSON
+and	O
+	
+apologise	O
+twice	O
+Brendon	PERSON
+that	O
+	
+lot	O
+apology	O
+Bracewell	PERSON
+be	O
+also	O
+the	O
+view	O
+that	O
+Lee	PERSON
+have	O
+bowl	O
+beamer	O
+Pakistan	LOCATION
+Abdul	PERSON
+Razzaq	PERSON
+during	O
+the	O
+Series	O
+	
+Sunday	DATE
+furious	O
+McCullum	PERSON
+confront	O
+Lee	PERSON
+mid	O
+pitch	O
+after	O
+be	O
+strike	O
+the	O
+arm	O
+and	O
+while	O
+the	O
+incident	O
+be	O
+later	O
+resolve	O
+Bracewell	PERSON
+be	O
+not	O
+happy	O
+Lee	PERSON
+who	O
+take	O
+	
+	
+off	O
+seven	NUMBER
+over	O
+Saturday	DATE
+and	O
+also	O
+send	O
+Michael	PERSON
+Papps	PERSON
+hospital	O
+with	O
+bouncer	O
+be	O
+contrite	O
+afterwards	O
+	
+say	O
+the	O
+heavy	O
+dew	O
+cause	O
+he	O
+foot	O
+shift	O
+delivery	O
+stride	O
+and	O
+lose	O
+control	O
+against	O
+McCullum	PERSON
+	
+unfortunately	O
+the	O
+ball	O
+come	O
+out	Sports
+and	O
+hit	O
+he	O
+thank	O
+God	O
+didn	O
+hurt	O
+he	O
+say	O
+Lee	PERSON
+	
+know	O
+when	O
+be	O
+beam	O
+accidently	O
+Razzaq	PERSON
+also	O
+the	O
+Series	O
+you	O
+first	ORDINAL
+impression	O
+	
+crazy	O
+	
+McCullum	PERSON
+lose	O
+there	O
+for	O
+	
+	
+seconds	DURATION
+and	O
+go	O
+and	O
+apologise	O
+and	O
+say	O
+	
+would	O
+never	O
+mean	O
+	
+that	O
+	
+Australia	LOCATION
+captain	O
+Ricky	PERSON
+pont	O
+refuse	O
+admit	O
+there	O
+animosity	O
+between	O
+the	O
+side	O
+despite	O
+Bracewell	PERSON
+disquiet	O
+	
+team	O
+have	O
+get	O
+very	O
+well	O
+pont	O
+say	O
+	
+	
+	
+be	O
+each	O
+other	O
+room	O
+after	O
+every	O
+game	O
+relation	O
+have	O
+be	O
+very	O
+good	O
+	
+the	O
+only	O
+thing	O
+be	O
+the	O
+full	O
+toss	O
+that	O
+Brett	PERSON
+bowl	O
+otherwise	O
+everything	O
+be	O
+great	O
+	
+	
+be	O
+good	O
+series	O
+play	O
+great	O
+spirit	O
+	
+the	O
+law	O
+the	O
+game	O
+bowler	O
+remove	O
+from	O
+the	O
+attack	O
+the	O
+umpire	Sports
+for	O
+bowling	O
+two	NUMBER
+beamer	O
+	
+match	O
+whether	O
+accidental	O
+not	O
+any	O
+delivery	O
+that	O
+pass	O
+the	O
+batsman	O
+	
+above	O
+waist	O
+height	O
+without	O
+bounce	O
+deem	O
+	
+ball	O
+Pakistan	LOCATION
+accept	O
+venue	O
+compromise	O
+the	O
+doubt	O
+surround	O
+Pakistan	LOCATION
+tour	O
+India	LOCATION
+have	O
+recede	O
+after	O
+the	O
+two	NUMBER
+board	O
+agree	O
+move	O
+the	O
+second	ORDINAL
+test	O
+from	O
+Ahmedabad	LOCATION
+Calcutta	LOCATION
+	
+return	O
+for	O
+switching	O
+the	O
+test	O
+Pakistan	LOCATION
+have	O
+agree	O
+play	O
+extra	O
+one	NUMBER
+day	DURATION
+international	O
+Ahmedabad	LOCATION
+	
+the	O
+tour	O
+may	O
+get	O
+delay	O
+three	NUMBER
+four	NUMBER
+day	DURATION
+say	O
+Pakistan	LOCATION
+cricket	O
+Board	O
+chairman	O
+Shaharyar	PERSON
+Khan	PERSON
+Ahmedabad	LOCATION
+be	O
+the	O
+scene	O
+religious	O
+riot	O
+	
+	
+and	O
+Pakistan	LOCATION
+cricketer	O
+have	O
+be	O
+wary	O
+play	O
+there	O
+but	O
+compromise	O
+solution	O
+be	O
+reach	O
+Friday	DATE
+day	DURATION
+after	O
+the	O
+tour	O
+schedule	O
+have	O
+be	O
+due	O
+	
+confirm	O
+	
+sixth	ORDINAL
+one	NUMBER
+day	DURATION
+international	O
+will	O
+play	O
+Ahmedabad	LOCATION
+appease	O
+the	O
+Gujarat	LOCATION
+cricket	O
+Association	O
+the	O
+Pakistan	LOCATION
+cricket	O
+Board	O
+initially	O
+suggest	O
+Mumbai	LOCATION
+	
+alternative	O
+for	O
+the	O
+Ahmedabad	LOCATION
+test	O
+but	O
+be	O
+agree	O
+would	O
+play	O
+Calcutta	LOCATION
+Kolkata	LOCATION
+	
+Khan	PERSON
+meet	O
+India	LOCATION
+external	O
+affair	O
+minister	O
+Natwar	PERSON
+Singh	PERSON
+Islamabad	LOCATION
+Thursday	DATE
+and	O
+also	O
+hold	O
+telephone	O
+talk	O
+with	O
+Jagmohan	PERSON
+Dalmiya	PERSON
+patron	O
+the	O
+Board	O
+control	O
+for	O
+cricket	O
+India	LOCATION
+	
+hope	O
+final	O
+itinerary	O
+will	O
+announce	O
+the	O
+BCCI	ORGANIZATION
+later	O
+Friday	DATE
+say	O
+Khan	PERSON
+	
+be	O
+constant	O
+touch	O
+with	O
+they	O
+	
+can	O
+agree	O
+the	O
+date	O
+for	O
+the	O
+tour	O
+start	O
+because	O
+they	O
+have	O
+lot	O
+work	O
+	
+	
+	
+happy	O
+that	O
+the	O
+matter	O
+resolve	O
+and	O
+the	O
+tour	O
+will	O
+get	O
+smoothly	O
+the	O
+first	ORDINAL
+and	O
+third	ORDINAL
+test	O
+will	O
+take	O
+place	O
+Mohali	LOCATION
+and	O
+Bangalore	LOCATION
+while	O
+Cochin	LOCATION
+Vishakapatnam	LOCATION
+Delhi	LOCATION
+Jamshedpur	LOCATION
+and	O
+Kanpur	LOCATION
+will	O
+stage	O
+the	O
+other	O
+five	NUMBER
+one	NUMBER
+day	DURATION
+international	O
+the	O
+indian	O
+government	O
+have	O
+confirm	O
+that	O
+	
+	
+visa	O
+will	O
+grant	O
+Pakistan	LOCATION
+supporter	O
+who	O
+wish	O
+attend	O
+the	O
+Mohali	LOCATION
+test	O
+the	O
+seven	NUMBER
+week	DURATION
+tour	O
+will	O
+Pakistan	LOCATION
+first	ORDINAL
+India	LOCATION
+six	NUMBER
+year	DURATION
+and	O
+they	O
+squad	O
+due	O
+	
+announce	O
+Saturday	DATE
+they	O
+be	O
+due	O
+arrive	O
+Delhi	LOCATION
+	
+	
+	
+February	DATE
+and	O
+begin	O
+three	NUMBER
+day	DURATION
+warm	O
+match	O
+the	O
+	
+th	O
+however	O
+rights	O
+have	O
+yet	O
+	
+award	O
+with	O
+counter	O
+petition	O
+from	O
+zee	O
+due	O
+	
+hear	O
+the	O
+Madras	LOCATION
+high	O
+Court	O
+Thursday	DATE
+the	O
+BCCI	ORGANIZATION
+back	O
+out	Sports
+	
+four	NUMBER
+year	DURATION
+deal	O
+with	O
+zee	O
+last	O
+September	DATE
+after	O
+ESPN	ORGANIZATION
+Star	O
+Sports	O
+challenge	O
+	
+court	O
+Salim	PERSON
+Altaf	PERSON
+the	O
+pcb	O
+director	O
+cricket	O
+Operations	O
+have	O
+be	O
+appoint	O
+team	O
+manager	O
+for	O
+the	O
+tour	O
+	
+replace	O
+former	O
+test	O
+batsman	O
+Haroon	PERSON
+rashid	O
+	
+	
+another	O
+big	O
+responsibility	O
+and	O
+consider	O
+the	O
+importance	O
+the	O
+tour	O
+will	O
+try	O
+	
+best	O
+Altaf	PERSON
+say	O
+Tuffey	PERSON
+pay	O
+price	O
+for	O
+profligacy	O
+New	O
+Zealand	O
+have	O
+drop	O
+seam	O
+bowler	O
+Daryl	PERSON
+Tuffey	PERSON
+follow	O
+he	O
+woeful	O
+display	O
+the	O
+third	ORDINAL
+one	NUMBER
+day	DURATION
+international	O
+against	O
+Australia	LOCATION
+Tuffey	PERSON
+send	O
+down	O
+four	NUMBER
+	
+ball	O
+and	O
+four	NUMBER
+wide	O
+	
+	
+ball	O
+open	O
+over	O
+and	O
+go	O
+for	O
+	
+run	O
+off	O
+two	NUMBER
+over	O
+before	O
+be	O
+remove	O
+from	O
+the	O
+attack	O
+New	O
+Zealand	O
+lose	O
+	
+run	O
+Australia	LOCATION
+wrap	O
+the	O
+series	O
+with	O
+two	NUMBER
+match	O
+remain	O
+Lance	PERSON
+Hamilton	PERSON
+replace	O
+Tuffey	PERSON
+for	O
+the	O
+fourth	ORDINAL
+ODI	O
+Wellington	LOCATION
+Tuesday	DATE
+kiwi	O
+captain	O
+Stephen	PERSON
+Fleming	PERSON
+say	O
+be	O
+disappointed	O
+with	O
+Tuffey	PERSON
+performance	O
+Eden	PERSON
+Park	O
+	
+there	O
+be	O
+lot	O
+faith	O
+put	O
+he	O
+for	O
+this	O
+game	O
+	
+tell	O
+the	O
+Sunday	DATE
+Star	O
+Times	O
+	
+there	O
+be	O
+question	O
+mark	O
+over	O
+he	O
+form	O
+from	O
+the	O
+first	ORDINAL
+two	NUMBER
+game	O
+and	O
+that	O
+performance	O
+be	O
+certainly	O
+not	O
+	
+international	O
+standard	O
+	
+you	O
+have	O
+get	O
+	
+pretty	O
+disappointed	O
+when	O
+bowl	O
+well	O
+for	O
+	
+the	O
+past	DATE
+and	O
+then	O
+put	O
+	
+performance	O
+like	O
+that	O
+Michael	PERSON
+Papps	PERSON
+who	O
+be	O
+twice	O
+hit	O
+the	O
+head	O
+Brett	PERSON
+Lee	PERSON
+bouncer	O
+Saturday	DATE
+will	O
+also	O
+miss	O
+although	O
+scan	O
+reveal	O
+have	O
+avoid	O
+serious	O
+injury	O
+Otago	PERSON
+batsman	O
+Craig	PERSON
+cum	O
+have	O
+be	O
+call	O
+	
+he	O
+replacement	O
+Andre	PERSON
+Adams	PERSON
+not	O
+ready	O
+return	O
+the	O
+side	O
+	
+continue	O
+struggle	O
+with	O
+the	O
+viral	O
+infection	O
+that	O
+have	O
+plague	O
+he	O
+for	O
+most	O
+the	O
+season	O
+Stephen	PERSON
+Fleming	PERSON
+captain	O
+Nathan	PERSON
+Astle	PERSON
+Craig	PERSON
+cum	O
+Hamish	PERSON
+Marshall	PERSON
+James	PERSON
+Marshall	PERSON
+Craig	PERSON
+McMillan	PERSON
+Chris	PERSON
+Cairns	PERSON
+Brendon	PERSON
+McCullum	PERSON
+Daniel	PERSON
+Vettori	PERSON
+Jeff	PERSON
+Wilson	PERSON
+Kyle	PERSON
+Mills	PERSON
+Lance	PERSON
+Hamilton	PERSON

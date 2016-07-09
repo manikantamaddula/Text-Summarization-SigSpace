@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ihear_nermodel.iml" filepath="$PROJECT_DIR$/.idea/modules/ihear_nermodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ihear_nermodel-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ihear_nermodel-build.iml" />
+    </modules>
+  </component>
+</project>
