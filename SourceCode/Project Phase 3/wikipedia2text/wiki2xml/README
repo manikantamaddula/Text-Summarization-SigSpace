@@ -1,0 +1,5 @@
+wiki2xml from:
+svn co http://svn.wikimedia.org/svnroot/mediawiki/trunk/wiki2xml
+
+* Apply heading-fix.patch to php/wiki2xml.php
+* php/wiki2xml_command.php by Evan Jones

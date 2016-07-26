@@ -1,0 +1,138 @@
+=pod
+
+=head1 INTRODUCTION
+
+You can read this document better with:
+
+	perldoc README
+
+Otherwise, please just ignore the funny characters.
+
+=head1 NAME
+
+WIKI2XML - Wikitext to XML converter
+
+=head1 INSTALLATION
+
+=head2 Download/Checkout
+
+Check out the current release from SVN:
+
+	svn co http://svn.wikimedia.org/svnroot/mediawiki/trunk/wiki2xml
+
+=head2 Extension or cgi-bin?
+
+There are two ways to install wiki2xml:
+
+	As extension: Special::Wiki2XML
+	As cgi-bin: http://example.com/wiki/wiki2xml/w2x 
+
+The former should be prefered.
+
+=head2 As Extension
+
+To enable wiki2xml as extension, put all files in the C<< php >> directory into a
+C<< wiki2xml >> subdirectory of your MediaWiki extensions directory.
+
+	htdocs
+        \- wiki
+            \- extensions
+		 \- wiki2xml		<-- create this directory
+               	     \- w2x.php		<-- copy files here
+                     \- wiki2xml.php	etc.
+
+Then add
+
+        require_once ("extensions/wiki2xml/extension.php");
+
+to your C<< LocalSettings.php >>. The extension can then be accessed as
+C<< [[Special:Wiki2XML]] >>.
+
+=head2 cgi-bin - Copy files
+
+The alternative method is to install wiki2xml as cgi-bin script:
+
+Copy the subdirectory C<< ./php/ >> to your server's C<< wiki/ >>
+directory as a subdirectory named C<< w2x >>:
+
+	htdocs
+        \- wiki
+            \- w2x                <-- here
+                \- w2x.php
+                \- wiki2xml.php        etc
+
+Access it as C<< http://example.com/wiki/w2x/w2x.php >>.
+
+=head2 Configuration
+
+The configuration is stored in C<< default.php >> and C<< local.php >>.
+
+There is a C<< sample_local.php >> file, copy it to C<< local.php >>
+and then edit it to match your configuration.
+
+On a Unix/Linux server the following can be used as a starting point:
+
+	# Directory for temporary files:
+	$xmlg["temp_dir"] = "/tmp";
+
+ 	# Path to the zip/unzip programs; can be omitted if in default
+	# executable path:
+	#$xmlg["zip_odt_path"] = "";
+
+	# Command to zip directory $1 to file $2:
+	$xmlg["zip_odt"] = 'zip -r9 $1 $2';
+
+	# Command to unzip file $1 to directory $2:
+	$xmlg["unzip_odt"] = 'unzip -x $1 -d $2';
+ 
+=head1 USAGE
+
+Open the correct URL (depending on install type, see above) in your browser.
+
+Wiki2xml should present you with a form with a textarea and several buttons.
+
+=head2 Using URL parameters
+
+Parameters:
+
+	doit=1
+	text=lines_of_text_or_titles
+	whatsthis=wikitext/articlelist
+	site=en.wikipedia.org/w
+	output_format=xml/text/xhtml/docbook_xml/odt_xml/odt
+
+Optional:
+
+	use_templates=all/none/these/notthese
+	templates=lines_of_templates
+	document_title=
+	add_gfdl=1
+	keep_categories=1
+	keep_interlanguage=1
+ 
+
+
+=head1 TROUBLESHOOTING
+
+If you get errors like the following:
+
+	Warning: fopen(/tmp/ODD6Rq1qt-DIR/content.xml): failed to open stream:
+	No such file or directory in /.../wiki/wiki2xml/w2x.php on line 112
+
+then make sure that the tmp directory you selected is really writable by
+your webserver.
+
+=head2 OpenOffice Output
+
+For OpenOffice output, the converter will extract a file called C<< template.odt >>
+into the temp directory. It will then replace/modify the files in it, zip it
+up again and then offer the browser the resulting file as a download.
+
+=head1 AUTHOR
+
+Copyright 2005-2006 by Magnus Manske <magnus.manske@web.de>
+
+Released under the GPL.
+
+=cut
+

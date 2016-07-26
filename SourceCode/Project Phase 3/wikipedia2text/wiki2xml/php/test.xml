@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<articles loadtime='0 sec' rendertime='0.0158550739288 sec' totaltime='0.0158550739288 sec'>
+<article title='Main+Page'>
+<paragraph>
+You have reached a<space/><italics>developper</italics><space/>mediawiki installation :)</paragraph>
+<paragraph>
+Don't trust anything you might find here and expect crashes !</paragraph>
+<paragraph>
+<link><target>User:Hashar</target><part>Hashar</part></link><space/>23:48, 13 April 2006 (CEST)</paragraph>
+<paragraph>
+<link><target>TOTO</target></link></paragraph>
+<paragraph>
+<link><target>redircat</target></link></paragraph>
+<paragraph>
+number of articles:<space/><xhtml:div class='noarticletext'>There is currently no text in this page, you can<space/><link><target>Special:Search/Wiki2XML</target><part>search for this page title</part></link><space/>in other pages or<space/><link type='external' href='http://twenkill.dyndns.org/wiki?title=Special:Wiki2XML&amp;action=edit'>edit this page</link>.</xhtml:div></paragraph>
+<paragraph>
+	<xhtml:pre>Oh no this is some ugly code</xhtml:pre>
+</paragraph>
+<list type='numbered'>
+	<listitem>numb 1</listitem>
+	<listitem>numb 2</listitem>
+	<listitem>numb 3</listitem>
+</list>
+<paragraph>
+And unordered:</paragraph>
+<list type='bullet'>
+	<listitem>yeah 1</listitem>
+	<listitem><link type='external' href='http://www.google.com/'>Google</link></listitem>
+	<listitem>yeah 3</listitem>
+</list>
+<paragraph>
+	<link><target>Tobedoom</target></link>
+</paragraph>
+</article>
+</articles>

@@ -1,0 +1,14 @@
+Index: wiki2xml.php
+===================================================================
+--- wiki2xml.php	(revision 33083)
++++ wiki2xml.php	(working copy)
+@@ -1449,7 +1449,8 @@
+ 		
+ 		# Remove HTML comments
+ #    $this->w = str_replace ( "\n<!--" , "<!--" , $this->w ) ;
+-		$this->w= preg_replace('/\n<!--(.|\s)*?-->\n/', "<!-- --> ", $this->w);
++		# Important: Do not remove leading \n, since it could be a heading delimiter
++		$this->w= preg_replace('/\n<!--(.|\s)*?-->\n/', "\n<!-- --> ", $this->w);
+ 		$this->w= preg_replace('/<!--(.|\s)*?-->/', '', $this->w);
+ 		$this->w= preg_replace('/<!--(.|\s)*$/', '', $this->w);
+ 		

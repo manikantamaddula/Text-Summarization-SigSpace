@@ -1,0 +1,38 @@
+# Project: wiki2xml
+# Makefile created by Dev-C++ 4.9.9.0
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = main.o global.o TXML.o WIKI2XML.o $(RES)
+LINKOBJ  = main.o global.o TXML.o WIKI2XML.o $(RES)
+LIBS =  -L"C:/Programme/Dev-Cpp/lib"  
+INCS =  -I"C:/Programme/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Programme/Dev-Cpp/include/c++"  -I"C:/Programme/Dev-Cpp/include/c++/mingw32"  -I"C:/Programme/Dev-Cpp/include/c++/backward"  -I"C:/Programme/Dev-Cpp/include" 
+BIN  = wiki2xml.exe
+CXXFLAGS = $(CXXINCS)   -traditional-cpp -w -fsave-memoized -fexpensive-optimizations -O3
+CFLAGS = $(INCS)   -traditional-cpp -w -fsave-memoized -fexpensive-optimizations -O3
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before wiki2xml.exe all-after
+
+
+clean: clean-custom
+	rm -f $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "wiki2xml.exe" $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+global.o: global.cpp
+	$(CPP) -c global.cpp -o global.o $(CXXFLAGS)
+
+TXML.o: TXML.cpp
+	$(CPP) -c TXML.cpp -o TXML.o $(CXXFLAGS)
+
+WIKI2XML.o: WIKI2XML.cpp
+	$(CPP) -c WIKI2XML.cpp -o WIKI2XML.o $(CXXFLAGS)
