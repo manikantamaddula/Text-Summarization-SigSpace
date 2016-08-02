@@ -41,6 +41,8 @@ object EM_NV {
     Logger.getLogger("org").setLevel(Level.OFF);
     Logger.getLogger("akka").setLevel(Level.OFF);
 
+
+
     // Read the file into RDD[String]
     val inputfilepath="C:\\Users\\Manikanta\\Documents\\UMKC Subjects\\KDM\\Project Files\\bbcsport-fulltext\\bbcsport"
     val tfidffilepath="C:\\Users\\Manikanta\\Documents\\UMKC Subjects\\KDM\\Project Files\\tfidfoutput2"
@@ -82,7 +84,7 @@ object EM_NV {
     //word2Vec.save("data/word2vec")
     val model3=model.transform(processedWordData)
 
-    model.save("data/word2vecmodel")
+    //model.save("data/word2vecmodel")
     println("saved word2vec model")
 
 
@@ -156,7 +158,7 @@ object EM_NV {
 
     // Cluster the data into 40 classes using EM
 
-    val gmm = new GaussianMixture().setK(40).setMaxIterations(100).run(vecdata)
+    val gmm = new GaussianMixture().setK(100).run(vecdata)
     gmm.save(sc,"data/EMModel")
     val mapClusterIndices =gmm.predict(vecdata)
 

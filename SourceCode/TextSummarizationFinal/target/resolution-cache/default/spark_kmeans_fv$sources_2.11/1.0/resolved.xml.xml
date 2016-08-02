@@ -4,7 +4,7 @@
 		module="spark_kmeans_fv$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160727102203"
+		publication="20160802001000"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

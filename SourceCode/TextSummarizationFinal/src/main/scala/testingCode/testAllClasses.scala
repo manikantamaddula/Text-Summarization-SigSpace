@@ -44,7 +44,7 @@ object testAllClasses {
     Logger.getLogger("akka").setLevel(Level.OFF);
 
     // Read the file into RDD[String]
-    val inputfilepath="C:\\Users\\Manikanta\\Documents\\UMKC Subjects\\KDM\\Project Files\\bbcsport-fulltext\\bbcsport"
+    val inputfilepath="C:\\Users\\Manikanta\\Documents\\UMKC Subjects\\KDM\\Project Files\\bbcsport-fulltext\\bbcsport2"
     val tfidffilepath="C:\\Users\\Manikanta\\Documents\\UMKC Subjects\\KDM\\Project Files\\tfidfoutput2"
 
     //val inputfilepath="C:\\Users\\Manikanta\\Documents\\UMKC Subjects\\KDM\\Project Files\\bbcsport-fulltext\\bbcsport\\cricket\\*"
@@ -84,7 +84,7 @@ object testAllClasses {
     //word2Vec.save("data/word2vec")
     val model3=model.transform(processedWordData)
 
-  model.save("data/word2vecmodel")
+  //model.save("data/word2vecmodel")
     //model.save("C:\\Users\\Manikanta\\Documents\\UMKC Subjects\\KDM\\Project Files/word2vecmodel")
 
     println("saved word2vec model")
@@ -138,6 +138,8 @@ object testAllClasses {
     val outfile=new File("somclusters2.txt")
     new WordClusterSOM(infile,outfile,sc)
 
+
+
     //kMeans on SOM to form signatures for sub categories or topics
     // Load and parse the data for kMeans Input
     val data = sc.textFile("somclusters2.txt")
@@ -146,7 +148,7 @@ object testAllClasses {
     val vecdata: RDD[Vector] =arraydata.map{ f=>Vectors.dense(f(1).toDouble,f(2).toDouble)}
     val worddata=arraydata.map{f=>f(0)}
 
-    // Cluster the data into 4 classes using KMeans
+    // Cluster the data into 40 classes using KMeans
     val numClusters = 40
     val numIterations = 1000
     val clusters = KMeans.train(vecdata, numClusters, numIterations)

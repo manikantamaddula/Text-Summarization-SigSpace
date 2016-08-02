@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20160727102203"/>
+		date="20160802001000"/>
 	<dependencies>
 		<module organisation="org.encog" name="encog-core">
 			<revision name="3.3.0" status="release" pubdate="20140924110000" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.heatonresearch.com/encog/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="159">
@@ -1456,11 +1456,11 @@
 				<metadata-artifact status="no" details="" size="3938" time="0" location="C:\Users\Manikanta\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\ivy-2.0.1.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom"/>
 				<caller organisation="default" name="spark_kmeans_fv$sources_2.11" conf="compile, runtime-internal, runtime, optional" rev="2.0.1" rev-constraint-default="2.0.1" rev-constraint-dynamic="2.0.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="javax.ws.rs-api" type="jar" ext="jar" status="no" details="" size="115534" time="0" location="C:\Users\Manikanta\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\jars\javax.ws.rs-api-2.0.1.jar">
-						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar"/>
-					</artifact>
 					<artifact name="javax.ws.rs-api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="265372" time="0" location="C:\Users\Manikanta\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\srcs\javax.ws.rs-api-2.0.1-sources.jar">
 						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar"/>
+					</artifact>
+					<artifact name="javax.ws.rs-api" type="jar" ext="jar" status="no" details="" size="115534" time="0" location="C:\Users\Manikanta\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\jars\javax.ws.rs-api-2.0.1.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
